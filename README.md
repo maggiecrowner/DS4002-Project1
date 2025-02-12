@@ -9,12 +9,10 @@
 ## Map of documentation
 **DATA** -- email_spam.csv
 
-**OUTPUT** -- \newline
+**OUTPUT** -- 
 
-**SCRIPTS** -- preprocessing_and_analysis.ipynb
+**SCRIPTS** -- preprocessing_and_analysis.ipynb, more_EDA.ipynb
 
-            more_EDA.ipynb
-            
 README.md
 
 LICENSE.md
