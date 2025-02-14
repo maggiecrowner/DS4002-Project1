@@ -7,11 +7,11 @@
 - Platform: Mac
 
 ## Map of documentation
-**DATA** -- email_spam.csv
+**DATA** -- email_spam.csv, preprocessed_data.csv, Data Appendix.pdf
 
 **OUTPUT** -- 
 
-**SCRIPTS** -- preprocessing_and_analysis.ipynb, more_EDA.ipynb
+**SCRIPTS** -- preprocessing_and_analysis.ipynb, more_EDA.ipynb, model_building.ipynb
 
 README.md
 
