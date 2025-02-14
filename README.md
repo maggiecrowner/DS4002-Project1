@@ -41,28 +41,28 @@ _Random Forest model:_
 
 16. Set y as 'type' and X as all other variables in the data set
 17. Define the pipeline:
-- 18. Initialize scaler to standardize all predictors to be centered at 0
-- 19. Perform PCA with n_components set to 0.8
-- 20. Initialize Random Forest Classifier and set a random state
-21. Perform 5-fold cross validation on the pipeline with scoring set to accuracy
-22. Use cross validation prediction to predict the y values
-23. Calculate accuracy, precision, recall, f1, ROC, and AUC metrics
-24. Fit the pipeline on the entire data set to get the final model and PCA information
-25. Create a confusion matrix to visualize the results
+- Initialize scaler to standardize all predictors to be centered at 0
+- Perform PCA with n_components set to 0.8
+- Initialize Random Forest Classifier and set a random state
+18. Perform 5-fold cross validation on the pipeline with scoring set to accuracy
+19. Use cross validation prediction to predict the y values
+20. Calculate accuracy, precision, recall, f1, ROC, and AUC metrics
+21. Fit the pipeline on the entire data set to get the final model and PCA information
+22. Create a confusion matrix to visualize the results
     
 _Logistic Regression model:_
 
-26. 16. Set y as 'type' and X as all other variables in the data set
-27. Define the pipeline:
-- 28. Initialize scaler to standardize all predictors to be centered at 0
-- 29. Perform PCA with n_components set to 0.8
-- 30. Initialize Logistic Regression and set a random state
-31. Perform 5-fold cross validation on the pipeline with scoring set to accuracy
-32. Use cross validation prediction to predict the y values
-33. Calculate accuracy, precision, recall, f1, ROC, and AUC metrics
-34. Fit the pipeline on the entire data set to get the final model and PCA information
-35. Create a confusion matrix to visualize the results
+23. Set y as 'type' and X as all other variables in the data set
+24. Define the pipeline:
+- Initialize scaler to standardize all predictors to be centered at 0
+- Perform PCA with n_components set to 0.8
+- Initialize Logistic Regression and set a random state
+25. Perform 5-fold cross validation on the pipeline with scoring set to accuracy
+26. Use cross validation prediction to predict the y values
+27. Calculate accuracy, precision, recall, f1, ROC, and AUC metrics
+28. Fit the pipeline on the entire data set to get the final model and PCA information
+29. Create a confusion matrix to visualize the results
     
 _Final conclusions:_
 
-36. Select model with higher accuracy score as the final model for prediction
+30. Select model with higher accuracy score as the final model for prediction
