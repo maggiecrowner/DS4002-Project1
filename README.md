@@ -9,7 +9,7 @@
 ## Map of documentation
 **DATA** -- email_spam.csv, preprocessed_data.csv, Data Appendix.pdf
 
-**OUTPUT** -- 
+**OUTPUT** -- evaluation_metrics.png, LF_confusion_matrix.png, RF_confusion_matrix.png
 
 **SCRIPTS** -- preprocessing_and_analysis.ipynb, more_EDA.ipynb, model_building.ipynb
 
